@@ -1,15 +1,16 @@
-# Expo Router Example
+# A2.2 Arijeet Grewal Github Repo
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+The following repo contains the code for A2.2 for COSC 67 Spring 2023 term for Arijeet Grewal.
 
 ## 🚀 How to use
 
+Run the following command from the root directory:
+
 ```sh
-npx create-react-native-app -t with-router
+npx expo start
 ```
 
 ## 📝 Notes
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+- [Main Tutorial by JavaScript Mastery](https://www.youtube.com/watch?v=mJ3bGvy0WAY)
+- [Supplemental Tutorial -- React Native Documentation](https://reactnative.dev/docs/getting-started)
